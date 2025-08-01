@@ -1,2 +1,2 @@
-.ipynb linguist-language=Python
-.txt linguist-vendored
+*.ipynb linguist-language=Python
+*.txt linguist-vendored
